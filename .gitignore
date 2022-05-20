@@ -30,3 +30,6 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+
+#Links from the workshop
+importantlinks.txt
